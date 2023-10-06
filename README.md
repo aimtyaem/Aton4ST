@@ -19,4 +19,3 @@ We are using the following technologies and frameworks for this project:
 The Planetary Tourism Office project aims to revolutionize space exploration and tourism. With our cutting-edge technology stack, we're developing an application that will allow users to explore and plan their journeys to various celestial bodies, including planets, moons, and asteroids. Whether you're a space enthusiast or a future space traveler, our application will provide you with the information and tools you need to plan your dream space adventure.
 
 Stay tuned for updates and exciting features as we work on this project during the NASA Space App Challenge.
-
