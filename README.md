@@ -1,6 +1,6 @@
 # Planetary Tourism Office
 
-![NASA Space App Challenge Logo]([link-to-your-logo-image.png](https://www.bing.com/images/blob?bcid=SxQYF485JykGxLYeo-Z.9cBNfoEe.....zM))
+([link-to-your-logo-image.png](https://www.bing.com/images/blob?bcid=SxQYF485JykGxLYeo-Z.9cBNfoEe.....zM))
 
 Welcome to the Planetary Tourism Office GitHub repository! This project is part of the NASA Space App Challenge, where we aim to create an exciting and immersive experience for planetary tourists.
 
